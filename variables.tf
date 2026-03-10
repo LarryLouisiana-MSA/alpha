@@ -1,0 +1,1 @@
+# Define input variables here\nvariable "lambda_function_name" {\n  description = "The name of the Lambda function"\n  type = string\n}\n
