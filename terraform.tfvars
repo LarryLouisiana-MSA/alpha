@@ -1,0 +1,1 @@
+# Terraform variables configuration file\nlambda_function_name = "my_lambda_function"\n

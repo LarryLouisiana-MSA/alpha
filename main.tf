@@ -1,0 +1,1 @@
+# Terraform configuration file\nprovider "aws" {\n  region = "us-east-1"\n}\n\n# Define resources here\n

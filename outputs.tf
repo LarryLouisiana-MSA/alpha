@@ -1,0 +1,1 @@
+# Define outputs here\noutput "lambda_function_arn" {\n  value = aws_lambda_function.my_lambda.arn\n}\n
